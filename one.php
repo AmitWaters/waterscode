@@ -1,3 +1,3 @@
 <?php
-echo "This is testing for iyhub sync";
+echo "This is testing for GIThub sync";
 ?>
